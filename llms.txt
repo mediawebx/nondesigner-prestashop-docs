@@ -1,8 +1,19 @@
 # NonDesigner
 
-> NonDesigner è un modulo PrestaShop che aggiunge alla scheda prodotto un disegnatore grafico 2D (editor/customizer) per prodotti personalizzati: i clienti inseriscono testo, immagini, forme, font e QR-Code, e per ogni ordine il modulo genera file SVG vettoriali e PNG 1:1 pronti per la stampa, scaricabili dal Back Office. Compatibile con PrestaShop da 1.7.6.1 a 8.x e 9.x, PHP da 7.2 a 8.5. Supporta stampa fronte/retro, Multinegozio e font serviti localmente (nessun font esterno caricato in tempo reale). Sviluppato da Media Web.
+> NonDesigner is a PrestaShop module that adds a 2D graphic designer (product customizer/editor) to the product page: customers add text, images, shapes, fonts and QR codes, and for every order the module generates print-ready vector SVG and 1:1 PNG files, downloadable from the Back Office. Compatible with PrestaShop 1.7.6.1 to 8.x and 9.x, PHP 7.2 to 8.5. Supports front/back printing, Multistore and locally served fonts (no external font loading). Developed by Media Web.
 
-Documentazione in italiano. Altre lingue in preparazione.
+Documentation available in English and Italian (French, German, Spanish and Polish in preparation). Documentazione disponibile in inglese e italiano.
+
+## Documentation (English)
+
+- [Overview and index](https://github.com/mediawebx/nondesigner-prestashop-docs/blob/main/docs/en/README.md): features, requirements, useful links
+- [How to install the NonDesigner module on PrestaShop](https://github.com/mediawebx/nondesigner-prestashop-docs/blob/main/docs/en/installation.md): system requirements, compatibility, installation, license
+- [How to configure the module (global settings)](https://github.com/mediawebx/nondesigner-prestashop-docs/blob/main/docs/en/module-configuration.md): logging, image upload limits, SVG shapes, fonts, designer panels and tools, abandoned cart cleanup
+- [How to configure the designer on a product](https://github.com/mediawebx/nondesigner-prestashop-docs/blob/main/docs/en/product-configuration.md): enabling, front/back printing, product shape, rounded corners, PDF template, bulk apply to a category
+- [How to set print dimensions](https://github.com/mediawebx/nondesigner-prestashop-docs/blob/main/docs/en/product-dimensions.md): bleed margin and sizing methods (fixed, distinct attributes, paired values W x H)
+- [Orders and print-ready SVG export](https://github.com/mediawebx/nondesigner-prestashop-docs/blob/main/docs/en/orders-and-svg-export.md): design in the Back Office, SVG/JSON/PNG download, Multistore security
+- [Pricing and variants of personalized products](https://github.com/mediawebx/nondesigner-prestashop-docs/blob/main/docs/en/pricing-and-variants.md): surcharges through PrestaShop combinations
+- [FAQ and troubleshooting](https://github.com/mediawebx/nondesigner-prestashop-docs/blob/main/docs/en/faq.md)
 
 ## Documentazione (italiano)
 

@@ -6,16 +6,27 @@ This repository contains the **public user guide and configuration manual** of t
 
 - Official website: [nondesigner.com](https://www.nondesigner.com/)
 - Live demo: [nondesigner.com/demonondesigner/](https://www.nondesigner.com/demonondesigner/)
-- Buy on PrestaShop Addons: [NonDesigner – 2D graphic designer for custom products]([[https://addons.prestashop.com/it/varianti-di-prodotto/99215-nondesigner-disegnatore-grafico-2d-per-prodotti-personalizzati.html](https://addons.prestashop.com/en/product-variants/99215-nondesigner-2d-graphic-designer-for-personalised-products.html)](https://addons.prestashop.com/en/product-variants/99215-nondesigner-2d-graphic-designer-for-personalised-products.html))
+- Buy on PrestaShop Addons: [NonDesigner – 2D graphic designer for custom products](https://addons.prestashop.com/en/product-variants/99215-nondesigner-2d-graphic-designer-for-personalised-products.html)
 - Developer: [Media Web](https://www.mediaweb-x.com/)
 
 ## Documentation by language
 
-| Language | Guide |
+| Language | User guide and configuration manual |
 |---|---|
+| English | [docs/en](docs/en/README.md) |
 | Italiano | [docs/it](docs/it/README.md) |
 
-*English, Français, Deutsch, Español and Polski guides are being added.*
+*Français, Deutsch, Español and Polski guides are being added.*
+
+### English guide – quick links
+
+1. [Installation and requirements](docs/en/installation.md)
+2. [Module configuration (global settings)](docs/en/module-configuration.md)
+3. [Product configuration](docs/en/product-configuration.md)
+4. [Print dimensions and bleed margin](docs/en/product-dimensions.md)
+5. [Orders and print-ready SVG export](docs/en/orders-and-svg-export.md)
+6. [Pricing and variants](docs/en/pricing-and-variants.md)
+7. [FAQ and troubleshooting](docs/en/faq.md)
 
 ## At a glance
 
