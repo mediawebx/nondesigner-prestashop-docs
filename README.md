@@ -14,9 +14,10 @@ This repository contains the **public user guide and configuration manual** of t
 | Language | User guide and configuration manual |
 |---|---|
 | English | [docs/en](docs/en/README.md) |
+| Français | [docs/fr](docs/fr/README.md) |
 | Italiano | [docs/it](docs/it/README.md) |
 
-*Français, Deutsch, Español and Polski guides are being added.*
+*Deutsch, Español and Polski guides are being added.*
 
 ### English guide – quick links
 
@@ -27,6 +28,16 @@ This repository contains the **public user guide and configuration manual** of t
 5. [Orders and print-ready SVG export](docs/en/orders-and-svg-export.md)
 6. [Pricing and variants](docs/en/pricing-and-variants.md)
 7. [FAQ and troubleshooting](docs/en/faq.md)
+
+### Guide en français – liens rapides
+
+1. [Installation et configuration requise](docs/fr/installation.md)
+2. [Configuration du module (paramètres globaux)](docs/fr/configuration-module.md)
+3. [Configuration du produit](docs/fr/configuration-produit.md)
+4. [Dimensions d'impression et marge de fond perdu](docs/fr/dimensions-produit.md)
+5. [Commandes et export SVG prêt à imprimer](docs/fr/commandes-et-export-svg.md)
+6. [Prix et déclinaisons](docs/fr/prix-et-declinaisons.md)
+7. [FAQ et dépannage](docs/fr/faq.md)
 
 ## At a glance
 
