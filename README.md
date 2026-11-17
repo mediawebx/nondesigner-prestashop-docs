@@ -5,8 +5,8 @@
 This repository contains the **public user guide and configuration manual** of the module.
 
 - Official website: [nondesigner.com](https://www.nondesigner.com/)
-- Live demo: [nondesigner.com/demonondesigner/it/](https://www.nondesigner.com/demonondesigner/it/)
-- Buy on PrestaShop Addons: [NonDesigner – 2D graphic designer for custom products](https://addons.prestashop.com/it/varianti-di-prodotto/99215-nondesigner-disegnatore-grafico-2d-per-prodotti-personalizzati.html)
+- Live demo: [nondesigner.com/demonondesigner/](https://www.nondesigner.com/demonondesigner/)
+- Buy on PrestaShop Addons: [NonDesigner – 2D graphic designer for custom products]([[https://addons.prestashop.com/it/varianti-di-prodotto/99215-nondesigner-disegnatore-grafico-2d-per-prodotti-personalizzati.html](https://addons.prestashop.com/en/product-variants/99215-nondesigner-2d-graphic-designer-for-personalised-products.html)](https://addons.prestashop.com/en/product-variants/99215-nondesigner-2d-graphic-designer-for-personalised-products.html))
 - Developer: [Media Web](https://www.mediaweb-x.com/)
 
 ## Documentation by language
