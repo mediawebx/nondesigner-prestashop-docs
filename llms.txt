@@ -2,7 +2,7 @@
 
 > NonDesigner is a PrestaShop module that adds a 2D graphic designer (product customizer/editor) to the product page: customers add text, images, shapes, fonts and QR codes, and for every order the module generates print-ready vector SVG and 1:1 PNG files, downloadable from the Back Office. Compatible with PrestaShop 1.7.6.1 to 8.x and 9.x, PHP 7.2 to 8.5. Supports front/back printing, Multistore and locally served fonts (no external font loading). Developed by Media Web.
 
-Documentation available in English, French and Italian (German, Spanish and Polish in preparation). Documentazione disponibile in inglese, francese e italiano.
+Documentation available in English, German, French and Italian (Spanish and Polish in preparation). Dokumentation auf Deutsch verfügbar. Documentazione disponibile in inglese, tedesco, francese e italiano.
 
 ## Documentation (English)
 
@@ -25,6 +25,17 @@ Documentation available in English, French and Italian (German, Spanish and Poli
 - [Commandes et export SVG prêt à imprimer](https://github.com/mediawebx/nondesigner-prestashop-docs/blob/main/docs/fr/commandes-et-export-svg.md): design dans le back office, téléchargement SVG/JSON/PNG, sécurité Multiboutique
 - [Prix et déclinaisons des produits personnalisés](https://github.com/mediawebx/nondesigner-prestashop-docs/blob/main/docs/fr/prix-et-declinaisons.md): majorations via les déclinaisons PrestaShop
 - [FAQ et dépannage](https://github.com/mediawebx/nondesigner-prestashop-docs/blob/main/docs/fr/faq.md)
+
+## Dokumentation (Deutsch)
+
+- [Übersicht und Inhaltsverzeichnis](https://github.com/mediawebx/nondesigner-prestashop-docs/blob/main/docs/de/README.md): Funktionen, Systemanforderungen, nützliche Links
+- [So installieren Sie das NonDesigner-Modul in PrestaShop](https://github.com/mediawebx/nondesigner-prestashop-docs/blob/main/docs/de/installation.md): Systemanforderungen, Kompatibilität, Installation, Lizenz
+- [So konfigurieren Sie das Modul (globale Einstellungen)](https://github.com/mediawebx/nondesigner-prestashop-docs/blob/main/docs/de/modulkonfiguration.md): Protokoll, Bild-Upload-Limits, SVG-Formen, Schriftarten, Panels und Werkzeuge des Designers, Bereinigung abgebrochener Warenkörbe
+- [So konfigurieren Sie den Designer für ein Produkt](https://github.com/mediawebx/nondesigner-prestashop-docs/blob/main/docs/de/produktkonfiguration.md): Aktivierung, Vorder-/Rückseitendruck, Produktform, abgerundete Ecken, PDF-Vorlage, Massenanwendung auf eine Kategorie
+- [So legen Sie die Druckabmessungen fest](https://github.com/mediawebx/nondesigner-prestashop-docs/blob/main/docs/de/produktabmessungen.md): Beschnittzugabe und Methoden zur Größenberechnung (fest, separate Attribute, gepaarte Werte B x H)
+- [Bestellungen und druckfertiger SVG-Export](https://github.com/mediawebx/nondesigner-prestashop-docs/blob/main/docs/de/bestellungen-und-svg-export.md): Design im Backoffice, SVG-/JSON-/PNG-Download, Multistore-Sicherheit
+- [Preise und Varianten personalisierter Produkte](https://github.com/mediawebx/nondesigner-prestashop-docs/blob/main/docs/de/preise-und-varianten.md): Zuschläge über PrestaShop-Kombinationen
+- [FAQ und Fehlerbehebung](https://github.com/mediawebx/nondesigner-prestashop-docs/blob/main/docs/de/faq.md)
 
 ## Documentazione (italiano)
 
