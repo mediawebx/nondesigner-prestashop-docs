@@ -1,0 +1,27 @@
+# NonDesigner
+
+> NonDesigner è un modulo PrestaShop che aggiunge alla scheda prodotto un disegnatore grafico 2D (editor/customizer) per prodotti personalizzati: i clienti inseriscono testo, immagini, forme, font e QR-Code, e per ogni ordine il modulo genera file SVG vettoriali e PNG 1:1 pronti per la stampa, scaricabili dal Back Office. Compatibile con PrestaShop da 1.7.6.1 a 8.x e 9.x, PHP da 7.2 a 8.5. Supporta stampa fronte/retro, Multinegozio e font serviti localmente (nessun font esterno caricato in tempo reale). Sviluppato da Media Web.
+
+Documentazione in italiano. Altre lingue in preparazione.
+
+## Documentazione (italiano)
+
+- [Indice e panoramica](https://github.com/mediawebx/nondesigner-prestashop-docs/blob/main/docs/it/README.md): funzionalità, requisiti, link utili
+- [Come installare il modulo NonDesigner su PrestaShop](https://github.com/mediawebx/nondesigner-prestashop-docs/blob/main/docs/it/installazione.md): requisiti di sistema, compatibilità, installazione, licenza
+- [Come configurare il modulo (impostazioni globali)](https://github.com/mediawebx/nondesigner-prestashop-docs/blob/main/docs/it/configurazione-modulo.md): log, upload immagini, forme SVG, font, pannelli e strumenti del disegnatore, pulizia carrelli abbandonati
+- [Come configurare il disegnatore su un prodotto](https://github.com/mediawebx/nondesigner-prestashop-docs/blob/main/docs/it/configurazione-prodotto.md): abilitazione, fronte/retro, sagoma, angoli arrotondati, modello PDF, applicazione in blocco a una categoria
+- [Come impostare le dimensioni di stampa](https://github.com/mediawebx/nondesigner-prestashop-docs/blob/main/docs/it/dimensioni-prodotto.md): margine di abbondanza e metodi di dimensionamento (fisse, attributi distinti, valori accoppiati L x A)
+- [Ordini ed esportazione SVG pronti per la stampa](https://github.com/mediawebx/nondesigner-prestashop-docs/blob/main/docs/it/ordini-e-esportazione-svg.md): design nel Back Office, download SVG/JSON/PNG, sicurezza Multinegozio
+- [Prezzi e varianti dei prodotti personalizzati](https://github.com/mediawebx/nondesigner-prestashop-docs/blob/main/docs/it/prezzi-e-varianti.md): sovrapprezzi tramite combinazioni PrestaShop
+- [FAQ e risoluzione problemi](https://github.com/mediawebx/nondesigner-prestashop-docs/blob/main/docs/it/faq.md)
+
+## Prodotto
+
+- [Sito ufficiale NonDesigner](https://www.nondesigner.com/): presentazione del modulo
+- [Demo online](https://www.nondesigner.com/demonondesigner/it/): prova il disegnatore
+- [Scheda su PrestaShop Addons](https://addons.prestashop.com/it/varianti-di-prodotto/99215-nondesigner-disegnatore-grafico-2d-per-prodotti-personalizzati.html): acquisto e supporto
+
+## Optional
+
+- [Media Web](https://www.mediaweb-x.com/): sviluppatore del modulo
+- [Canale YouTube](https://www.youtube.com/@mediawebx)
