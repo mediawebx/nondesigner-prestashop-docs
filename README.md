@@ -60,6 +60,16 @@ This repository contains the **public user guide and configuration manual** of t
 6. [Precios y variantes](docs/es/precios-y-variantes.md)
 7. [FAQ y solución de problemas](docs/es/faq.md)
 
+### Guida in italiano – accesso rapido
+
+1. [Come installare il modulo NonDesigner su PrestaShop](docs/it/installazione.md) – requisiti di sistema, compatibilità, installazione.
+2. [Come configurare il modulo NonDesigner (impostazioni globali)](docs/it/configurazione-modulo.md) – schede Generale, Gestione Forme, Gestione Caratteri, Configurazione Strumenti, pulizia dei carrelli abbandonati.
+3. [Come configurare il disegnatore su un singolo prodotto](docs/it/configurazione-prodotto.md) – abilitazione, fronte/retro, sagoma, modello PDF, applicazione in blocco a una categoria.
+4. [Come impostare le dimensioni di stampa del prodotto](docs/it/dimensioni-prodotto.md) – margine di abbondanza e i tre metodi di dimensionamento con formati accettati ed errori comuni.
+5. [Come gestire gli ordini e scaricare i file SVG pronti per la stampa](docs/it/ordini-e-esportazione-svg.md) – design nel Back Office, esportazione SVG, JSON, sicurezza.
+6. [Come gestire prezzi e varianti dei prodotti personalizzati](docs/it/prezzi-e-varianti.md) – sovrapprezzi per fronte/retro, angoli arrotondati, prodotto senza stampa.
+7. [Domande frequenti (FAQ) e risoluzione problemi](docs/it/faq.md).
+
 ### Przewodnik po polsku – szybkie linki
 
 1. [Instalacja i wymagania systemowe](docs/pl/instalacja.md)
