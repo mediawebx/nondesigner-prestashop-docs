@@ -2,7 +2,7 @@
 
 > NonDesigner is a PrestaShop module that adds a 2D graphic designer (product customizer/editor) to the product page: customers add text, images, shapes, fonts and QR codes, and for every order the module generates print-ready vector SVG and 1:1 PNG files, downloadable from the Back Office. Compatible with PrestaShop 1.7.6.1 to 8.x and 9.x, PHP 7.2 to 8.5. Supports front/back printing, Multistore and locally served fonts (no external font loading). Developed by Media Web.
 
-Documentation available in English, German, Spanish, French and Italian (Polish in preparation). Dokumentation auf Deutsch verfügbar. Documentación disponible en español. Documentazione disponibile in inglese, tedesco, spagnolo, francese e italiano.
+Documentation available in English, German, Spanish, French, Italian and Polish. Dokumentation auf Deutsch verfügbar. Documentación disponible en español. Documentazione disponibile in inglese, tedesco, spagnolo, francese, italiano e polacco. Dokumentacja dostępna w języku polskim.
 
 ## Documentation (English)
 
@@ -48,6 +48,17 @@ Documentation available in English, German, Spanish, French and Italian (Polish 
 - [Precios y variantes de los productos personalizados](https://github.com/mediawebx/nondesigner-prestashop-docs/blob/main/docs/es/precios-y-variantes.md): recargos mediante combinaciones de PrestaShop
 - [FAQ y solución de problemas](https://github.com/mediawebx/nondesigner-prestashop-docs/blob/main/docs/es/faq.md)
 
+## Dokumentacja (polski)
+
+- [Przegląd i spis treści](https://github.com/mediawebx/nondesigner-prestashop-docs/blob/main/docs/pl/README.md): funkcje, wymagania systemowe, przydatne linki
+- [Jak zainstalować moduł NonDesigner w PrestaShop](https://github.com/mediawebx/nondesigner-prestashop-docs/blob/main/docs/pl/instalacja.md): wymagania systemowe, kompatybilność, instalacja, licencja
+- [Jak skonfigurować moduł (ustawienia globalne)](https://github.com/mediawebx/nondesigner-prestashop-docs/blob/main/docs/pl/konfiguracja-modulu.md): rejestr zdarzeń, limity przesyłania obrazów, kształty SVG, czcionki, panele i narzędzia kreatora, czyszczenie porzuconych koszyków
+- [Jak skonfigurować kreator przy produkcie](https://github.com/mediawebx/nondesigner-prestashop-docs/blob/main/docs/pl/konfiguracja-produktu.md): aktywacja, druk przód/tył, kształt produktu, zaokrąglone rogi, szablon PDF, masowe zastosowanie do kategorii
+- [Jak ustawić wymiary druku](https://github.com/mediawebx/nondesigner-prestashop-docs/blob/main/docs/pl/wymiary-produktu.md): margines spadu i metody obliczania rozmiaru (stałe, odrębne atrybuty, połączone wartości Sz x W)
+- [Zamówienia i eksport SVG gotowy do druku](https://github.com/mediawebx/nondesigner-prestashop-docs/blob/main/docs/pl/zamowienia-i-eksport-svg.md): projekt w panelu administracyjnym, pobieranie SVG/JSON/PNG, bezpieczeństwo Multistore
+- [Ceny i warianty produktów spersonalizowanych](https://github.com/mediawebx/nondesigner-prestashop-docs/blob/main/docs/pl/ceny-i-warianty.md): dopłaty za pomocą kombinacji PrestaShop
+- [FAQ i rozwiązywanie problemów](https://github.com/mediawebx/nondesigner-prestashop-docs/blob/main/docs/pl/faq.md)
+
 ## Documentazione (italiano)
 
 - [Indice e panoramica](https://github.com/mediawebx/nondesigner-prestashop-docs/blob/main/docs/it/README.md): funzionalità, requisiti, link utili
@@ -59,13 +70,13 @@ Documentation available in English, German, Spanish, French and Italian (Polish 
 - [Prezzi e varianti dei prodotti personalizzati](https://github.com/mediawebx/nondesigner-prestashop-docs/blob/main/docs/it/prezzi-e-varianti.md): sovrapprezzi tramite combinazioni PrestaShop
 - [FAQ e risoluzione problemi](https://github.com/mediawebx/nondesigner-prestashop-docs/blob/main/docs/it/faq.md)
 
-## Prodotto
+## Product
 
-- [Sito ufficiale NonDesigner](https://www.nondesigner.com/): presentazione del modulo
-- [Demo online](https://www.nondesigner.com/demonondesigner/it/): prova il disegnatore
-- [Scheda su PrestaShop Addons](https://addons.prestashop.com/it/varianti-di-prodotto/99215-nondesigner-disegnatore-grafico-2d-per-prodotti-personalizzati.html): acquisto e supporto
+- [NonDesigner official website](https://www.nondesigner.com/): module presentation
+- [Live demo](https://www.nondesigner.com/demonondesigner/): try the designer
+- [PrestaShop Addons listing](https://addons.prestashop.com/en/product-variants/99215-nondesigner-2d-graphic-designer-for-personalised-products.html): purchase and support
 
 ## Optional
 
-- [Media Web](https://www.mediaweb-x.com/): sviluppatore del modulo
-- [Canale YouTube](https://www.youtube.com/@mediawebx)
+- [Media Web](https://www.mediaweb-x.com/): module developer
+- [YouTube channel](https://www.youtube.com/@mediawebx)
